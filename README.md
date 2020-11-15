@@ -1,0 +1,2 @@
+# Automated-Algorithms
+Code written during a research class on optimizing ML algorithems, genetic programming, and using machine learning to solve the "Titanic prediction" problem. This problem aims to predict whether a person on-board the titanic survived or not, depending on factors such as age, sex, profession, etc. For example, if they were a woman or a child, the algorithm would be more inclined to predict that they survived because women and children were evacuated first.
